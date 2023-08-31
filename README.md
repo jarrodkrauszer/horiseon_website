@@ -2,10 +2,22 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
- 
- I wanted a to build a webpage where I can easily access my notes from the prework study.  With all the info on one webpage it gives me an easier way to get to all my notes. 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In this project we refactored code that was given to us.  We went through the HTML and replace all the "div's" possible with the correct semantic tags.  We then had went through and refactored the CSS file included.  We consolidated the css and made sure it was using proper structure and naming.
+
+## Repository
+
+Link to deployed code:  https://jarrodkrauszer.github.io/horiseon_website/
+
+## Technologies
+
+ - This is written with HTML5 and CSS 
+ - HTML follows semantic structure for SEO
+ - Refactor CSS for faster loading and efficiency
+ - All img tags have alt descriptions for accessibility
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon_website_screenshot.png)
+
